@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://104.131.30.110/sitemap.xml 
